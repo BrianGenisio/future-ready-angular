@@ -15,15 +15,26 @@
         "problems-ambiguous-templating-language.md",
         "problems-they-have-to-break-things.md"
     ],
-    ["changes.md",
-    "changes-goodbye-digest-and-apply.md",
-    "changes-goodbye-scope.md",
-    "changes-goodbye-http-and-resource.md",
-    "changes-goodbye-leaky-abstractions.md",
-    "changes-hello-es2015.md",
-    "changes-hello-modules.md",
-    "changes-hello-components.md",
-    "changes-hello-again-templates.md",
-    "changes-hello-again-dependency-injection.md",
-    "changes-hello-again-router.md"]
+    [
+        "changes.md",
+        "changes-goodbye-digest-and-apply.md",
+        "changes-goodbye-scope.md",
+        "changes-goodbye-http-and-resource.md",
+        "changes-goodbye-leaky-abstractions.md",
+        "changes-hello-es2015.md",
+        "changes-hello-modules.md",
+        "changes-hello-components.md",
+        "changes-hello-again-templates.md",
+        "changes-hello-again-dependency-injection.md",
+        "changes-hello-again-router.md"
+    ],
+    [
+        "path.md",
+        "path-start-using-es2015-or-typescript.md",
+        "path-start-making-components.md",
+        "path-stop-referencing-leaky-abstractions.md",
+        "path-stop-referencing-angular.md",
+        "path-start-writing-more-tests.md"
+    ]
+    
 ]
