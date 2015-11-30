@@ -1,0 +1,29 @@
+[
+    "index.md",
+    [
+        "context.md",
+        "context-everything-is-changing.md",
+        "context-lots-of-things-are-being-removed.md",
+        "context-your-code-relies-on-those-things.md",
+        "context-you-can-t-get-there-from-here.md",
+        "context-how-can-you-be-ready.md"
+    ],
+    [
+        "problems.md",
+        "problems-performance.md",
+        "problems-leaky-abstractions.md",
+        "problems-ambiguous-templating-language.md",
+        "problems-they-have-to-break-things.md"
+    ],
+    ["changes.md",
+    "changes-goodbye-digest-and-apply.md",
+    "changes-goodbye-scope.md",
+    "changes-goodbye-http-and-resource.md",
+    "changes-goodbye-leaky-abstractions.md",
+    "changes-hello-es2015.md",
+    "changes-hello-modules.md",
+    "changes-hello-components.md",
+    "changes-hello-again-templates.md",
+    "changes-hello-again-dependency-injection.md",
+    "changes-hello-again-router.md"]
+]

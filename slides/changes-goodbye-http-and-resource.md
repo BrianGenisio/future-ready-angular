@@ -1,0 +1,2 @@
+##  Goodbye $http and $resource
+

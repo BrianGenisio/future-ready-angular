@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Angular 2 in an Angular 1 world",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
