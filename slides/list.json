@@ -34,7 +34,51 @@
         "path-start-making-components.md",
         "path-stop-referencing-leaky-abstractions.md",
         "path-stop-referencing-angular.md",
-        "path-start-writing-more-tests.md"
-    ]
-    
+        "path-start-writing-more-tests.md",
+        "path-one-component-at-a-time.md"
+    ],
+    [
+        "es2015.md",
+        "es2015-transpile.md",
+        "es2015-use-classes.md",
+        "es2015-use-modules.md",
+        "es2015-use-decorators.md",
+        "es2015-use-typescript.md",
+        "es2015-use-module-loader.md"
+    ],
+    [
+        "components.md",
+        "components-js-html-css.md",
+        "components-controlleras-directives.md",
+        "components-controllers-load-data.md",
+        "components-delegate-to-stores-and-services.md",
+        "components-make-every-component-a-separate-module.md",
+        "components-route-to-components.md"
+    ],
+    [
+        "abstractions.md",
+        "abstractions-no-more-digest-apply-or-watch.md",
+        "abstractions-no-more-scope.md",
+        "abstractions-no-more-http-or-resource.md",
+        "abstractions-no-more-dollar.md"
+    ],
+    [
+        "dereference-angular.md",
+        "dereference-create-pojos.md",
+        "dereference-treat-app-js-like-a-di-container.md"
+    ],
+    [
+        "tests.md",
+        "tests-import-and-test.md",
+        "tests-avoid-angular-specific-setups.md"
+    ],
+    [
+        "one-component.md",
+        "one-component-convert-the-tops-of-the-files.md",
+        "one-component-convert-the-template.md",
+        "one-component-use-ng-upgrade.md"
+    ],
+    "does-it-work.md",
+    "should-you.md",
+    "thoughts-and-questions.md"
 ]
