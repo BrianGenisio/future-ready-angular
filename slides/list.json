@@ -43,8 +43,8 @@
         "es2015-use-classes.md",
         "es2015-use-modules.md",
         "es2015-use-decorators.md",
-        "es2015-use-typescript.md",
-        "es2015-use-module-loader.md"
+        "es2015-use-module-loader.md",
+        "es2015-use-typescript.md"
     ],
     [
         "components.md",

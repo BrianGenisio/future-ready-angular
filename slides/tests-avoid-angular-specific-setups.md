@@ -1,3 +1,1 @@
-##  Tests Avoid angular-specific setups
-
-This is a new Markdown slide
+##  Avoid angular-specific setups

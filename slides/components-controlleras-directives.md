@@ -1,3 +1,1 @@
-##  components ControllerAs directives
-
-This is a new Markdown slide
+## ControllerAs directives

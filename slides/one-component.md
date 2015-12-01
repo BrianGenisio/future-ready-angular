@@ -1,3 +1,2 @@
-##  One Component
-
-This is a new Markdown slide
+## Upgrade Time?
+### One Component at a Time.
