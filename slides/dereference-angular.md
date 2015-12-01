@@ -1,1 +1,2 @@
 ##  Dereference Angular
+### Minimize angular.*
