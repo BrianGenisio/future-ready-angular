@@ -7,6 +7,6 @@
             ng-click="model.doSomething()" 
             typeahead="true"
             placeholder="notBoundButCanBeUsed"
-            ng-attr-placehoder="model.suggestion" />
+            ng-attr-placehoder="{{model.suggestion}}" />
     </div>
 ```

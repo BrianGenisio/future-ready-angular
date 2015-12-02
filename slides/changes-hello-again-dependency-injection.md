@@ -7,6 +7,7 @@
 ```javascript
 bootstrap(AppComponent, [
     provide(PersonStore, {useClass: PersonStore}),
-    provide(MailboxStore, {useValue: new MailboxStore()})
+    provide(MailboxStore, {useValue: new MailboxStore()}),
+    provide(Chocolate, {useFactory: new ChocolateFactory()})
 ]);
 ```
